@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f78ac9d6-c542-407c-928f-50d8fb62b5fa" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy$run.coverage" NAME="run Coverage Results" MODIFIED="1521472334616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy$my_crawler_scrapy.coverage" NAME="my_crawler_scrapy Coverage Results" MODIFIED="1521449961094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/sea_news_crawler$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1523717524956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/failed" />
+    <SUITE FILE_PATH="coverage/sea_news_crawler$run.coverage" NAME="run Coverage Results" MODIFIED="1523719813784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy$test.coverage" NAME="test Coverage Results" MODIFIED="1521474212425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy___$test.coverage" NAME="test Coverage Results" MODIFIED="1521515177970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy_2$Singapore.coverage" NAME="Singapore Coverage Results" MODIFIED="1521550419271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy_2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1521817569944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy___$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1521516827959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy_2$run.coverage" NAME="run Coverage Results" MODIFIED="1523000174393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy_2$DmozSpider.coverage" NAME="DmozSpider Coverage Results" MODIFIED="1521624277139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+    <SUITE FILE_PATH="coverage/my_crawler_scrapy___$run.coverage" NAME="run Coverage Results" MODIFIED="1521516968197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql/spiders" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sea_news_crawler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="10_Thailand_thaigov.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysql/spiders/10_Thailand_thaigov.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="55" column="52" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11_Vietnam_chinhphu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/spiders/11_Vietnam_chinhphu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="59" column="3" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="59" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-379">
+              <caret line="28" column="83" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
+              <folding>
+                <element signature="e#22#79#0" expanded="true" />
+                <element signature="e#705#1043#0" />
+                <element signature="e#1174#2132#0" />
+                <element signature="e#2216#2554#0" />
+                <element signature="e#2681#3686#0" />
+                <element signature="e#3781#4686#0" />
+                <element signature="e#4920#7108#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>block-row</find>
+      <find>Brunei</find>
+      <find>https://www.marinelink.com/news/register-software-lloyds435150</find>
+      <find>china</find>
+      <find />
+      <find>NewsPipeline</find>
+      <find>timeout</find>
+      <find>0_imo_org</find>
+      <find>DEBUG</find>
+      <find>full</find>
+      <find>image_paths</find>
+      <find>image</find>
+      <find>岛市、海口市、秦皇岛市和连云港市先</find>
+      <find>中国海警舰船编队3月2日在我钓鱼岛领海巡航</find>
+      <find>http://www.miti.gov.my/index.php/pages/view/3903</find>
+      <find>final</find>
+      <find>https://www.dti.gov.ph/564-main-content/berlin-news/11784-dti-leads-ph-energy-sector-drive-for-investments-in-germany</find>
+      <find>parse</find>
+      <find>lao</find>
+      <find>img</find>
+      <find>test</find>
+      <find>image_urls</find>
+      <find>replace</find>
+      <find>n</find>
+      <find>name(</find>
+      <find>pmo</find>
+      <find />
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mysql/spiders/test_crawler.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/test.py" />
+        <option value="$PROJECT_DIR$/mysql/crawlall.py" />
+        <option value="$PROJECT_DIR$/mysql/commands/crawlall.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/Singapore2.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/Singapore3.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/DmozSpider.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/Singapore.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/6_Malaysia_gov.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/10_ Thailand_thaigov.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/failed_6_Malaysia_gov.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_asean_org.py" />
+        <option value="$PROJECT_DIR$/mysql/failed/failed_0_imo_org.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/failed_0_imo_org.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_total_fishing.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/test2.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/ghostdriver.log" />
+        <option value="$PROJECT_DIR$/mysql/spiders/log.txt" />
+        <option value="$PROJECT_DIR$/mysql/items.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0__.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0√_marinelink.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0√_ics_shipping_org.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_imo_org.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0√_worldmaritimenews.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/3_Cambodia_mfaic.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0√_imo_org.py" />
+        <option value="$PROJECT_DIR$/mysql/failed/test_db.py" />
+        <option value="$PROJECT_DIR$/mysql/pipelines.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_ics_shipping_org.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_marinelink.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_seatrade_cruise.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_seatrade_maritime.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/1_soa_gov.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/7_Myanmar_commerce.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/8_Philippines_dti.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_eworldship.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/10_Thailand_thaigov.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/9_Singapore_pmo.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/6_Malaysia_miti.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_worldmaritimenews.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/8_Philippines_dfa.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/11_Vietnam_chinhphu.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/2_Brunei_jpm.py" />
+        <option value="$PROJECT_DIR$/mysql/settings.py" />
+        <option value="$PROJECT_DIR$/mysql/failed/test.py" />
+        <option value="$PROJECT_DIR$/mysql/failed/6_Malaysia_miti.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/0_worldcargonews.py" />
+        <option value="$PROJECT_DIR$/mysql/spiders/run.py" />
+        <option value="$PROJECT_DIR$/mysql/middlewares.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="694" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sea_news_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sea_news_crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sea_news_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sea_news_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sea_news_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sea_news_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sea_news_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sea_news_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="failed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sea_news_crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sea_news_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="LOGIN_TYPE&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\sea_news_crawler\mysql\failed" />
+      <recent name="C:\Users\Administrator\Desktop\sea_news_crawler\mysql\spiders" />
+      <recent name="C:\Users\lenovo\Desktop\my_crawler_scrapy 2\mysql\failed" />
+      <recent name="C:\Users\lenovo\Desktop\my_crawler_scrapy 2\mysql\spiders" />
+      <recent name="C:\Users\ccyc\Documents\PyCharmProject\my_crawler_scrapy 2\mysql\commands" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="DmozSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_crawler_scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql/spiders/DmozSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Singapore" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_crawler_scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ccyc\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql/spiders" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql/spiders/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_crawler_scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\Desktop\sea_news_crawler\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql/spiders" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql/spiders/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_crawler_scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql/failed" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql/failed/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_crawler_scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql/spiders" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql/spiders/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.Singapore" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.DmozSpider" />
+      <item itemvalue="Python.test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.DmozSpider" />
+        <item itemvalue="Python.Singapore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f78ac9d6-c542-407c-928f-50d8fb62b5fa" name="Default" comment="" />
+      <created>1521377703423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521377703423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3282313" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20364742" side_tool="true" weight="0.52210885" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.79635257" weight="0.57653064" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3282313" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.835034" weight="0.21808511" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.16496599" side_tool="true" weight="0.20744681" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39863715" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32879046" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3282313" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.79635257" weight="0.5816327" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32879046" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32879046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.835034" visible="true" weight="0.11398176" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3282313" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20364742" side_tool="true" weight="0.52210885" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39863715" />
+      <window_info id="Favorites" order="2" sideWeight="0.16496599" side_tool="true" weight="0.20744681" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="6" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#22#79#0" expanded="true" />
+            <element signature="e#705#1043#0" />
+            <element signature="e#1174#2132#0" />
+            <element signature="e#2216#2554#0" />
+            <element signature="e#2681#3686#0" />
+            <element signature="e#3781#4686#0" />
+            <element signature="e#4920#7108#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#15#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1523024167319" expanded="true" signature="1376:1413" ph="select * fro... news" />
+            <marker date="1523024167319" expanded="true" signature="1819:1997" ph="insert into news... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/failed/7_Myanmar_commerce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#15#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/9_Singapore_pmo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/test.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/log.txt" />
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/Singapore2.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/Singapore3.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages/scrapy/spiderloader.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/DmozSpider.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/failed/failed_6_Malaysia_gov.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="31" column="99" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages/scrapy/core/downloader/middleware.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/failed/failed_0_asean_org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="84" column="76" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages/twisted/internet/defer.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="33" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages/pymysql/connections.py" />
+    <entry file="file://C:/Python36/Lib/site-packages/scrapy/middleware.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0__.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-490256">
+          <caret line="1" column="165" lean-forward="true" selection-start-line="1" selection-start-column="165" selection-end-line="1" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/9_Singapore_pmo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="69" column="49" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/8_Philippines_dti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/8_Philippines_dfa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0_seatrade_cruise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/failed/2_Brunei_jpm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/failed/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="20" column="156" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="156" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/failed/6_Malaysia_miti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="87" column="81" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/failed/7_Myanmar_commerce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0_ics_shipping_org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0_marinelink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2522">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/commands/crawlall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/commands/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <marker date="1523024167319" expanded="true" signature="1376:1413" ph="select * fro... news" />
+            <marker date="1523024167319" expanded="true" signature="1819:1997" ph="insert into news... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/failed/0_imo_org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="91" column="37" lean-forward="true" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <caret line="28" column="83" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
+          <folding>
+            <element signature="e#22#79#0" expanded="true" />
+            <element signature="e#705#1043#0" />
+            <element signature="e#1174#2132#0" />
+            <element signature="e#2216#2554#0" />
+            <element signature="e#2681#3686#0" />
+            <element signature="e#3781#4686#0" />
+            <element signature="e#4920#7108#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0_seatrade_maritime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="106" column="45" lean-forward="true" selection-start-line="105" selection-start-column="11" selection-end-line="106" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0_worldcargonews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/11_Vietnam_chinhphu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="59" column="3" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="59" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0_worldmaritimenews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2299">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/0_eworldship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1399">
+          <caret line="44" selection-start-line="44" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/1_soa_gov.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-979">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/3_Cambodia_mfaic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1069">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/spiders/10_Thailand_thaigov.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="55" column="52" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
